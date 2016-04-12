@@ -1,0 +1,24 @@
+body {
+    background-color: antiquewhite;
+}
+
+.I2Scontainer {
+    position: relative;
+    width: auto;
+    height: 650px;
+}
+
+.demoImg {
+    /*150-300*/
+    height: 100%;
+    width: 100%;
+}
+
+.mainDiv {
+    z-index: 9999999;
+    width: 100%;
+    position: absolute;
+    bottom: 0px;
+    height: 36px;
+    /*display: none;*/
+}
